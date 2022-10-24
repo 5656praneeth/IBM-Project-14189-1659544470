@@ -18,7 +18,7 @@
 
 **Team member :** Vallarasu
 
-**Team member :** sheik Mohideen
+**Team member :** Sheik Mohideen
 
 **Team member :** Viswa
 
