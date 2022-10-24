@@ -53,7 +53,7 @@ Sri Sai Ram Engineering College
 
 
 ## Project Design & Planning
-- [Ideation Phase]
+- [Ideation Phase](https://github.com/5656praneeth/IBM-Project-14189-1659544470/tree/main/Project_Design%26Planning/Ideation_Phase)
 - [Project Design Phase 1]
 - [Project Design Phase II]
 - [Project Planning]
