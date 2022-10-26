@@ -54,13 +54,13 @@ Sri Sai Ram Engineering College
 
 ## Project Design & Planning
 - [Ideation Phase](https://github.com/5656praneeth/IBM-Project-14189-1659544470/tree/main/Project_Design%26Planning/Ideation_Phase)
-- [Project Design Phase 1]
+- [Project Design Phase 1](https://github.com/5656praneeth/IBM-Project-14189-1659544470/tree/main/Project_Design%26Planning/Design_Phase_01)
 - [Project Design Phase II]
 - [Project Planning]
 
 ## Tech Stack
 
-**Frontend:** Html+Css
+**Frontend:** Html+Css+python framework
 
 **Backend:** Python, Flask 
 
