@@ -47,7 +47,7 @@ Sri Sai Ram Engineering College
 ## Assignment  
 
  - [Team Leader : Praneeth kumar]
- - [Team member : Vallarasu]
+ - [Team member : Vallarasu](https://github.com/5656praneeth/IBM-Project-14189-1659544470/tree/main/Assignment/M1%20-%20Vallarasu)
  - [Team member : Sheik Mohidean]
  - [Team member : Viswa])
 
