@@ -56,7 +56,7 @@ Sri Sai Ram Engineering College
 - [Ideation Phase](https://github.com/5656praneeth/IBM-Project-14189-1659544470/tree/main/Project_Design%26Planning/Ideation_Phase)
 - [Project Design Phase 1](https://github.com/5656praneeth/IBM-Project-14189-1659544470/tree/main/Project_Design%26Planning/Design_Phase_01)
 - [Project Design Phase II](https://github.com/5656praneeth/IBM-Project-14189-1659544470/tree/main/Project_Design%26Planning/Design_Phase_02)
-- [Project Planning]
+- [Project Planning](https://github.com/5656praneeth/IBM-Project-14189-1659544470/tree/main/Project_Design%26Planning/Project_Planning)
 
 ## Tech Stack
 
